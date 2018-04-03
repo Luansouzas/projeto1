@@ -1,3 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-
+.container{
+	background-color: #E9E9E9;
+	width: auto;
+}
+.titulo{
+	text-align: center;
+}
