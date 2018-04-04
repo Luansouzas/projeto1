@@ -32,4 +32,10 @@ section{
 	height: 50px;
 	float: left;
 	margin-left: 100px;
+
+}
+footer{
+	text-align: center;
+	border-bottom: 1px solid #000000;
+	border-top: 1px solid #000000;
 }
